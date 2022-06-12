@@ -1,0 +1,12 @@
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/sqlb-24dcb7275a0681f1.rmeta: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/core.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/delete.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/insert.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/select.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/sqlx_exec.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/update.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/val.rs
+
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/sqlb-24dcb7275a0681f1.d: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/core.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/delete.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/insert.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/select.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/sqlx_exec.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/update.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/val.rs
+
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/lib.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/core.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/delete.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/insert.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/select.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/sqlx_exec.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/update.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlb-0.0.7/src/val.rs:

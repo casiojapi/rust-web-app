@@ -1,0 +1,9 @@
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/tokio_tungstenite-d220a8b23abc0c1e.rmeta: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs
+
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/tokio_tungstenite-d220a8b23abc0c1e.d: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs
+
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/lib.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/compat.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/connect.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/handshake.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.15.0/src/stream.rs:

@@ -1,0 +1,9 @@
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/libfutures_macro-dbb29993b5183565.dylib: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/executor.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/join.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/select.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/stream_select.rs
+
+/Users/maximosantoro/Documents/public-repos/rust-web-app/backend/target/rls/debug/deps/futures_macro-dbb29993b5183565.d: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/executor.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/join.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/select.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/stream_select.rs
+
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/lib.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/executor.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/join.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/select.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.21/src/stream_select.rs:
